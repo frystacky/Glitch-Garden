@@ -61,7 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrips\Attacker.cs" />
+    <Compile Include="Assets\Scrips\AttackerSpawner.cs" />
+    <Compile Include="Assets\Scrips\Health.cs" />
     <Compile Include="Assets\Scrips\LevelLoad.cs" />
+    <Compile Include="Assets\Scrips\Projectile.cs" />
+    <Compile Include="Assets\Scrips\Shooter.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/danie/Desktop/Glitch-Garden/Glitch Garden/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
