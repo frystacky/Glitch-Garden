@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scrips\Attacker.cs" />
     <Compile Include="Assets\Scrips\AttackerSpawner.cs" />
+    <Compile Include="Assets\Scrips\DefenderSpawner.cs" />
     <Compile Include="Assets\Scrips\Health.cs" />
     <Compile Include="Assets\Scrips\LevelLoad.cs" />
     <Compile Include="Assets\Scrips\Projectile.cs" />
